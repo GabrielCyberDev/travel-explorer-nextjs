@@ -22,8 +22,9 @@ export default function DetalhesDestino() {
       <Image
         src={destino.imagem}
         alt={destino.nome}
-        width={900}
-        height={500}
+        width={1200}
+        height={675}
+        priority
         className={styles.image}
       />
 

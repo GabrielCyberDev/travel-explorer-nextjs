@@ -4,7 +4,7 @@ import styles from "../../styles/Destinos.module.css";
 
 export default function Destinos() {
   return (
-    <>
+    <section className={styles.page}>
       <h1 className={styles.title}>Destinos Turísticos</h1>
 
       <div className={styles.grid}>
@@ -15,6 +15,6 @@ export default function Destinos() {
           />
         ))}
       </div>
-    </>
+    </section>
   );
 }

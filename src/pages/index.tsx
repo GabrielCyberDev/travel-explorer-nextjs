@@ -3,10 +3,11 @@ import styles from "../styles/Home.module.css";
 
 export default function Home() {
   return (
-    <>
+    <main className={styles.container}>
       <section className={styles.hero}>
         <div className={styles.overlay}>
           <h1>Travel Explorer</h1>
+
           <p>Descubra os destinos mais incríveis do mundo</p>
 
           <Link href="/destinos" className={styles.button}>
@@ -20,6 +21,6 @@ export default function Home() {
         <div>✈️ Experiências únicas</div>
         <div>📷 Lugares incríveis</div>
       </section>
-    </>
+    </main>
   );
 }

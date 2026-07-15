@@ -1,45 +1,93 @@
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 40px auto;
+}
+
+
 .hero {
   height: 80vh;
-  background: url("/images/hero.jpg") center/cover no-repeat;
+
+  background:
+    url("/images/hero.jpg")
+    center/cover
+    no-repeat;
+
   display: flex;
+
   align-items: center;
+
   justify-content: center;
+
   position: relative;
+
   border-radius: 20px;
+
   overflow: hidden;
 }
 
+
 .overlay {
+
   background: rgba(0,0,0,0.55);
+
   padding: 40px;
-  text-align: center;
-  color: white;
-  border-radius: 12px;
+
+  text-align:center;
+
+  color:white;
+
+  border-radius:12px;
+
 }
+
 
 .overlay h1 {
-  font-size: 3rem;
-  margin-bottom: 10px;
+
+  font-size:3rem;
+
+  margin-bottom:10px;
+
 }
+
 
 .overlay p {
-  margin-bottom: 20px;
+
+  margin-bottom:20px;
+
 }
+
 
 .button {
-  background: #2563eb;
-  color: white;
-  padding: 12px 20px;
-  border-radius: 8px;
-  text-decoration: none;
+
+  background:#2563eb;
+
+  color:white;
+
+  padding:12px 20px;
+
+  border-radius:8px;
+
+  text-decoration:none;
+
 }
 
+
+
 .stats {
-  display: flex;
-  justify-content: space-around;
-  margin-top: 40px;
-  padding: 20px;
-  background: #0f172a;
-  color: white;
-  border-radius: 12px;
+
+  display:flex;
+
+  justify-content:space-around;
+
+  margin-top:40px;
+
+  padding:20px;
+
+  background:#0f172a;
+
+  color:white;
+
+  border-radius:12px;
+
 }
