@@ -14,7 +14,7 @@ export const destinos: Destino[] = [
     nome: "Paris",
     subtitulo: "Cidade Luz",
     pais: "França",
-    imagem: "/images/paris.jpg",
+    imagem: "/images/paris.webp",
     resumo: "Capital francesa com arquitetura e cultura icônicas.",
     descricao:
       "Paris é conhecida como a Cidade Luz. Possui pontos turísticos como Torre Eiffel, Museu do Louvre e uma forte tradição cultural e gastronômica.",
@@ -24,7 +24,7 @@ export const destinos: Destino[] = [
     nome: "Tóquio",
     subtitulo: "Tecnologia e Tradição",
     pais: "Japão",
-    imagem: "/images/tokyo.jpg",
+    imagem: "/images/tokyo.webp",
     resumo: "Uma das maiores metrópoles do mundo.",
     descricao:
       "Tóquio mistura tecnologia avançada com tradições milenares, templos históricos e uma cultura única.",
@@ -34,7 +34,7 @@ export const destinos: Destino[] = [
     nome: "Rio de Janeiro",
     subtitulo: "Cidade Maravilhosa",
     pais: "Brasil",
-    imagem: "/images/rio.jpg",
+    imagem: "/images/rio.webp",
     resumo: "Praias, montanhas e cultura vibrante.",
     descricao:
       "O Rio de Janeiro é famoso pelo Cristo Redentor, Pão de Açúcar e praias mundialmente conhecidas.",
@@ -44,7 +44,7 @@ export const destinos: Destino[] = [
     nome: "Maldivas",
     subtitulo: "Paraíso Tropical",
     pais: "Maldivas",
-    imagem: "/images/maldives.jpg",
+    imagem: "/images/maldives.webp",
     resumo: "Águas cristalinas e resorts de luxo.",
     descricao:
       "As Maldivas oferecem praias paradisíacas, bangalôs sobre o mar e experiências de luxo.",
@@ -54,7 +54,7 @@ export const destinos: Destino[] = [
     nome: "Nova York",
     subtitulo: "Cidade que Nunca Dorme",
     pais: "EUA",
-    imagem: "/images/newyork.jpg",
+    imagem: "/images/newyork.webp",
     resumo: "Arranha-céus e vida urbana intensa.",
     descricao:
       "Nova York é famosa por Times Square, Central Park, Estátua da Liberdade e sua energia constante.",
@@ -64,7 +64,7 @@ export const destinos: Destino[] = [
     nome: "Montenegro",
     subtitulo: "Joia do Adriático",
     pais: "Montenegro",
-    imagem: "/images/montenegro.jpg",
+    imagem: "/images/montenegro.webp",
     resumo: "Montanhas e litoral histórico.",
     descricao:
       "Montenegro possui paisagens montanhosas e cidades históricas como Kotor, patrimônio mundial da UNESCO.",
