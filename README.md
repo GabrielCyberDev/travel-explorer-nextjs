@@ -259,6 +259,14 @@ http://localhost:3000
 
 ---
 
+## 🚀 Deploy
+
+Aplicação publicada:
+
+https://travel-explorer-nextjs.vercel.app
+
+---
+
 # 👨‍💻 Autor
 
 **Gabriel Costa**
