@@ -263,7 +263,7 @@ http://localhost:3000
 
 Aplicação publicada:
 
-https://travel-explorer-nextjs.vercel.app
+https://travel-explorer-nextjs-lovat.vercel.app
 
 ---
 
